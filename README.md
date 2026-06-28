@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">First-year Business Computing student at ISG Tunis, passionate about building things at the intersection of systems, software, and business. My interests span AI, low-level programming, cybersecurity, and information systems — and I'm always working on something new.</h3>
+<h3 align="center">Business Computing student @ ISG Tunis (ISGT) </h3>
+<h4>passionate about building things at the intersection of systems, software, and business</h4>
+<h4>My interests span AI, low-level programming, cybersecurity, and information systems — and I'm always working on something new.</h4>
 
 - 🌱 Currently deepening my skills in **Java** and **Finance**
 - 👨‍💻 All my projects are available at [github.com/somai-ahmed](https://github.com/somai-ahmed)
