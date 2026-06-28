@@ -77,6 +77,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=somai-ahmed&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somai-ahmed&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
