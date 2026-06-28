@@ -6,7 +6,6 @@
 - 🌱 Currently deepening my skills in **Java** and **Finance**
 - 👨‍💻 All my projects are available at [github.com/somai-ahmed](https://github.com/somai-ahmed)
 - 💬 Ask me about **Algorithms, C Programming, OS Internals, or Computer Hardware**
-- 🤝 Volunteer & active member at **JCI Tunisie** and **Association Sciences and Technology Ben Arous**
 - ⚡ Fun fact: I think in data structures, build in C, and run on coffee ☕
 
 ---
