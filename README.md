@@ -58,7 +58,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<table width="100%" border="0">
+<table width="100%" border="0" align="center">
   <tr>
     <td width="55%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=somai-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
